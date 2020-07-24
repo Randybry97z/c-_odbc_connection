@@ -10,7 +10,7 @@ CREATE TABLE desastres (
 	fecha_fin date,
 	id_region VARCHAR(20),
 CONSTRAINT pk_desastres PRIMARY KEY(id_desastre),
-CONSTRAINT fk_desastre_region FOREIGN KEY(id_region) REFERENCES regiones(id)
+CONSTRAINT fk_desastre_region FOREIGN KEY(id_region) REFERENCES regiones(id_region)
 )ENGINE=Innodb;
 
 CREATE TABLE regiones(

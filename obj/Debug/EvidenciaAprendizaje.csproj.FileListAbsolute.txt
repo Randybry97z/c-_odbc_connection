@@ -1,0 +1,7 @@
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\EvidenciaAprendizaje.exe.config
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\EvidenciaAprendizaje.exe
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\bin\Debug\EvidenciaAprendizaje.pdb
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\EvidenciaAprendizaje.csprojAssemblyReference.cache
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\EvidenciaAprendizaje.csproj.CoreCompileInputs.cache
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\EvidenciaAprendizaje.exe
+C:\Users\bssan\Downloads\Escuela\NET III\unidad1\EvidenciaAprendizaje\EvidenciaAprendizaje\obj\Debug\EvidenciaAprendizaje.pdb

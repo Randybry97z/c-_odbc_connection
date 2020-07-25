@@ -11,10 +11,10 @@ CREATE TABLE desastres (
 	id_region VARCHAR(20),
 CONSTRAINT pk_desastres PRIMARY KEY(id_desastre),
 CONSTRAINT fk_desastre_region FOREIGN KEY(id_region) REFERENCES regiones(id_region)
-)ENGINE=Innodb;
+);
 
 CREATE TABLE regiones(
 	id_region VARCHAR(20) NOT NULL,
 	nombre VARCHAR(100) NOT NULL,
 	CONSTRAINT pk_regiones PRIMARY KEY(id_region)
-)ENGINE=Innodb;
+);
